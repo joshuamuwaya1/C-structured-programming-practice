@@ -6,13 +6,13 @@ structured-programming-practice/
 ├── 01_basic_output/
 Source Deitel Paul C How to Program,9th Edition, Chapter-2, Exercise 2.9a
 Concept used:Print function
-How it works:The program displays whats's in the parenthesis
+How it works: The program displays message in parenthesis
 │   └── exercise_1.c 
 ## input_process_output
 ├── 02_input_process_output/ 
 Source Deitel Paul C How to Program,9th Edition, Chapter-2, Exercise 2.16
 Concept used:Print function,Variables,scanf,arithmetic
-How it works: Gets user input---calculates----displaysoutput
+How it works: Gets user input---calculates--produces results
 │   └── exercise_2.c 
 ## Decisions
 ├── 03_decisions/
